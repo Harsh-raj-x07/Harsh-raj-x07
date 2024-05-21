@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Tech Excactly**
 
-- 🤝 I’m looking for help with **GitLAB**
+- 🤝 I’m looking for help with **Open Source**
 
 - 💬 Ask me about **React , angular**
 
