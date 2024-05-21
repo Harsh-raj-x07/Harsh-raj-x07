@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **PHP & Laravel Project**
 
-- 🌱 I’m currently learning **ReactJS , NodeJS, PHP  , Tailwind , Express**
+- 🌱 I’m currently learning **ReactJS , NodeJS, PHP  , Tailwind **
 
 - 👯 I’m looking to collaborate on **Tech Excactly**
 
