@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **PHP & Laravel Project**
 
-- 🌱 I’m currently learning **ReactJS , NodeJS, PHP , larabel , Tailwind , Express**
+- 🌱 I’m currently learning **ReactJS , NodeJS, PHP  , Tailwind , Express**
 
 - 👯 I’m looking to collaborate on **Tech Excactly**
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **React , angular**
+- 💬 Ask me about **Open Source Community**
 
 - 📫 How to reach me **harshkumar83013@gmail.com**
 
