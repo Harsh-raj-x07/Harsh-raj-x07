@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithharshx07&label=Profile%20views&color=0e75b6&style=flat" alt="codewithharshx07" /> </p>
 
-- 🔭 I’m currently working on **PHP & Laravel Project**
+- 🔭 I’m currently working on **Full Stack Project**
 
 - 🌱 I’m currently learning **ReactJS , NodeJS, PHP  , Tailwind **
 
