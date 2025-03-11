@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithharshx07&label=Profile%20views&color=0e75b6&style=flat" alt="codewithharshx07" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Project**
+- 🔭 I’m currently working on **FrontEnd Project**
 
-- 🌱 I’m currently learning **ReactJS , NodeJS, PHP  , Tailwind **
+- 🌱 I’m currently learning **ReactJS , NodeJS, TailwindCSS **
 
 - 👯 I’m looking to collaborate on **Tech Excactly**
 
@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsh__x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh__x07" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh__x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh__x07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithharshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithharshraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codewithharsh__x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithharsh__x07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codewithharsh__x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codewithharsh__x07" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/harsh__x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh__x07" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/c/codewithharshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithharshraj" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/u/harsh_raj_2504/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewithharsh__x07" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/codewithharsh__x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codewithharsh__x07" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
